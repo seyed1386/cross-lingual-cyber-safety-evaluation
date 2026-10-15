@@ -1,0 +1,9 @@
+[project]
+name = "cross-lingual-cyber-safety-evaluation"
+version = "0.1.0"
+description = "A reproducible pilot framework for evaluating AI safety in English and Turkish cybersecurity requests."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

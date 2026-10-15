@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this pilot framework, cite the repository URL and the exact version evaluated."
+title: "Cross-Lingual Cyber Safety Evaluation"
+version: 0.1.0
+type: software
+repository-code: "https://github.com/seyed1386/cross-lingual-cyber-safety-evaluation"
+abstract: >-
+  A small, reproducible research scaffold for exploring safe helpfulness in
+  English and Turkish cybersecurity-related requests. The initial repository
+  is a pilot framework and does not contain empirical model-evaluation results.
